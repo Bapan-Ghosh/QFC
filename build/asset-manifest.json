@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/QFC/static/css/main.eaafe8ef.css",
+    "main.js": "/QFC/static/js/main.79940abf.js",
+    "static/js/787.4ca4947b.chunk.js": "/QFC/static/js/787.4ca4947b.chunk.js",
+    "static/media/qfcLeft.jpeg": "/QFC/static/media/qfcLeft.0f6a1887882c8184455a.jpeg",
+    "static/media/10.jpg": "/QFC/static/media/10.65250c26c7c385fc1c40.jpg",
+    "static/media/3.jpg": "/QFC/static/media/3.54818762e50a5e61ea09.jpg",
+    "static/media/6.jpg": "/QFC/static/media/6.d535f9fc6994c4fb50ba.jpg",
+    "static/media/9.jpg": "/QFC/static/media/9.44adc1df071008bf0c88.jpg",
+    "static/media/2.jpg": "/QFC/static/media/2.c2d6c955f37ad8c2c1e2.jpg",
+    "static/media/5.jpg": "/QFC/static/media/5.637ff0d81c1a214ef919.jpg",
+    "static/media/4.jpg": "/QFC/static/media/4.b318bee16d9c65c2e839.jpg",
+    "static/media/8.jpg": "/QFC/static/media/8.96bf902407334331f66a.jpg",
+    "static/media/7.jpg": "/QFC/static/media/7.ae42d7000bd89289aad7.jpg",
+    "static/media/1.jpg": "/QFC/static/media/1.bb87ff0bc163999491f1.jpg",
+    "static/media/aboutus.jpg": "/QFC/static/media/aboutus.fa090c3b92ca7d506cae.jpg",
+    "static/media/front.jpg": "/QFC/static/media/front.f2bf26365ac765deedf0.jpg",
+    "index.html": "/QFC/index.html",
+    "main.eaafe8ef.css.map": "/QFC/static/css/main.eaafe8ef.css.map",
+    "main.79940abf.js.map": "/QFC/static/js/main.79940abf.js.map",
+    "787.4ca4947b.chunk.js.map": "/QFC/static/js/787.4ca4947b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.eaafe8ef.css",
+    "static/js/main.79940abf.js"
+  ]
+}
