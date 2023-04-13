@@ -9,7 +9,10 @@ function Footer() {
   return (
     <div className='footer'>
        <div className="socialMedia">
-       <Instagram/><Facebook/><Twitter/><LinkedIn/>
+       <a target={'blank'} href="https://www.instagram.com/"><Instagram/></a>
+       <a href="https://www.facebook.com/login/" target={'blank'}><Facebook/></a>
+       <a href="https://twitter.com/home?lang=en" target={'blank'}><Twitter/></a>
+       <a href="https://www.linkedin.com/feed/" target={'blank'}><LinkedIn/></a>
        </div>
        <p>&copy; 2022 qfc.com</p> 
     </div>

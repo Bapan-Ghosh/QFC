@@ -15,7 +15,7 @@
   }
   
   .navbar .leftSide img {
-    width: 70px;
+    width: 100px;
   }
   
   .navbar .rightSide {
@@ -67,6 +67,7 @@
     width: 70px;
     margin: 5px;
   }
+
   @media only screen and (max-width: 900px) {
     .navbar .rightSide a {
       width: 70px;
@@ -83,7 +84,7 @@
   
     .navbar .rightSide {
       justify-content: flex-end;
-      padding-right: 50px;
+      padding-right: 30px;
     }
   
     .navbar .rightSide button {

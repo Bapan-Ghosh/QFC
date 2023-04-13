@@ -9,7 +9,7 @@ function Home() {
          <div className='headerContainer' >
            <h1>Peri Peri SPECIAL</h1>  
            {/* <p>Save Rs. 120 on 5 Peri Peri Leg Pieces, paired with 2 delicious dips (20gm each)</p> */}
-           <Link to="/menu">
+           <Link to="/Menu">
              <button> ORDER NOW</button>
            </Link>
          </div>
