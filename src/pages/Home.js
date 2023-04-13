@@ -7,7 +7,7 @@ function Home() {
   return(
     <div className='home' style={{backgroundImage: `url(${BannerImage})`}}>
          <div className='headerContainer' >
-           <h1>Peri Peri MATCH SPECIAL</h1>  
+           <h1>Peri Peri SPECIAL</h1>  
            {/* <p>Save Rs. 120 on 5 Peri Peri Leg Pieces, paired with 2 delicious dips (20gm each)</p> */}
            <Link to="/menu">
              <button> ORDER NOW</button>
